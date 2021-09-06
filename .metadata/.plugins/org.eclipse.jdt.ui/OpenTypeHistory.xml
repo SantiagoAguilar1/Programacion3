@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=microservicios-usuarios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.usuarios.services{AlumnoService.java[AlumnoService" modifiers="513" timestamp="1630348891160"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.commons.services{CommonService.java[CommonService" modifiers="513" timestamp="1629989330123"/>
+    <typeInfo handle="=microservicios-cursos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.cursos.services{CursoService.java[CursoService" modifiers="513" timestamp="1630348851932"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.commons.services{CommonServiceImpl.java[CommonServiceImpl" modifiers="1" timestamp="1629989389522"/>
+    <typeInfo handle="=microservicios-examenes/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.examenes.services{ExamenService.java[ExamenService" modifiers="513" timestamp="1630418899596"/>
+    <typeInfo handle="=microservicios-respuestas/C:\/Users\/MegaTecnologia\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.4.12\/spring-data-commons-2.4.12.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/2.4.12=/=/maven.scope=/compile=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1629815665958"/>
+    <typeInfo handle="=microservicios-respuestas/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.respuestas.models.services{RespuestaService.java[RespuestaService" modifiers="513" timestamp="1630418669358"/>
+</typeInfoHistroy>
